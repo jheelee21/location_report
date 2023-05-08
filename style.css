@@ -1,0 +1,57 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+  }
+
+h2, body {
+    text-align: center;
+}
+
+div {
+    margin-bottom: 5px;
+}
+
+.exit, .edit, .delete {
+    text-align: center;
+}
+
+
+.reset {
+    padding: 10px;
+    text-align: center;
+}
+
+.inSite, .offSite {
+    text-align: center;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    white-space: nowrap;
+}
+  
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+button {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 12px 28px;
+    font-size: 14px;
+}
+
+.logout_btn, .return {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 12px 28px;
+    font-size: 14px;
+}
